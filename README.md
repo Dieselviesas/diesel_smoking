@@ -1,5 +1,6 @@
 # diesel_smoking
-#Paprastas cigarečių ir el. cigarečių rūkimo script'as
+Preview - https://streamable.com/z5h9eh
+/ Paprastas cigarečių ir el. cigarečių rūkimo script'as
 #Dependencies: OX_INVENTORY
 #Instaliacija: Įkeliate sistemą ir į ox_inventory/data/items.lua įklijuojate šias eilutes - 
 #	['cigs_redwood']              = { label = 'Raudonas cigarečiu pakelis', weight = 50, stack = true, close = true, consume = 1, client = { event = 'diesel:usepakelis' }},
